@@ -3,7 +3,7 @@
 A beautiful, cross-platform task management app built with Flutter.
 
 ![Tasket](https://img.shields.io/badge/Platform-Android%20%7C%20Windows-blue)
-![Version](https://img.shields.io/badge/Version-1.0.0-green)
+![Version](https://img.shields.io/badge/Version-1.0.1-green)
 
 ## Features
 
@@ -20,18 +20,18 @@ A beautiful, cross-platform task management app built with Flutter.
 
 | Platform | Download |
 |----------|----------|
-| Android | [Tasket.Setup.V1.apk](https://github.com/AH96HSQ/TasketReleases/releases/download/v1.0.0/Tasket.Setup.V1.apk) |
-| Windows | [Tasket.Setup.V1.exe](https://github.com/AH96HSQ/TasketReleases/releases/download/v1.0.0/Tasket.Setup.V1.exe) |
+| Android | [Tasket_Setup_1.0.1.apk](https://github.com/AH96HSQ/TasketReleases/releases/download/v1.0.1/Tasket_Setup_1.0.1.apk) |
+| Windows | [Tasket_Setup_1.0.1.exe](https://github.com/AH96HSQ/TasketReleases/releases/download/v1.0.1/Tasket_Setup_1.0.1.exe) |
 
 ## Installation
 
 ### Android
-1. Download `Tasket.Setup.V1.apk`
+1. Download `Tasket_Setup_1.0.1.apk`
 2. Enable "Install from unknown sources" if prompted
 3. Open the APK and install
 
 ### Windows
-1. Download `Tasket.Setup.V1.exe`
+1. Download `Tasket_Setup_1.0.1.exe`
 2. Run the installer
 3. Follow the installation wizard
 
